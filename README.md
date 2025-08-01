@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Scott
 
-Welcome to my GitHub profile! I'm an Aspiring Data Analyst passionate about Data.
+Welcome to my GitHub profile! I'm an Aspiring Data Analyst passionate about turning data into meaningful insights.
 
 ## 🛠 Projects
 - [Project 1](https://github.com/sjscott18/sjscott18/blob/main/Environmental%20Toxin%20Analysis%20in%20River%20Systems.ipynb) — Using Python to perform an exploratory data analysis on the river toxin data to uncover insights that can drive conservation efforts and policy recommendations

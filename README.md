@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an Aspiring Data Analyst passionate about Data.
 
 ## 🛠 Projects
-- [Project 1](https://github.com/yourproject) — short description
+- [Project 1](https://github.com/sjscott18/sjscott18/blob/main/Environmental%20Toxin%20Analysis%20in%20River%20Systems.ipynb) — Using Python to analyse toxin data in rivers
 - [Project 2](https://github.com/yourproject) — short description
 
 ## 🧰 Certificates

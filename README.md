@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm an Aspiring Data Analyst passionate about turning data into meaningful insights.
 
-## 🛠 Python Practical Projects
+## 🛠 Python for Data Analysis Practical Projects
 - [Project 1](https://github.com/sjscott18/sjscott18/blob/main/Environmental%20Toxin%20Analysis%20in%20River%20Systems.ipynb) — Using Python to perform an exploratory data analysis on the river toxin data to uncover insights that can drive conservation efforts and policy recommendations
 - [Project 2](https://github.com/sjscott18/sjscott18/blob/main/Exploratory%20Data%20Analysis%20(EDA)%20on%20DataMart%20Sales%20Data.ipynb) — Using Python to perform an exploratory data analysis on the company's sales data to uncover insights that can drive business decisions
 
